@@ -1,6 +1,6 @@
-#ifndef __PID_H
-#define __PID_H
-#include "Motors.h"
+#ifndef __PID_HPP
+#define __PID_HPP
+#include "Motors.hpp"
 
 
 class PID{

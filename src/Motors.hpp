@@ -1,5 +1,5 @@
-#ifndef __MOTORS_H
-#define __MOTORS_H
+#ifndef __MOTORS_HPP
+#define __MOTORS_HPP
 
 class Motors{
 

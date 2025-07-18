@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..,../../..,../../..,../../..,../../..,../../..,../../..,../../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "/home/bhaskar/.arduino15/packages",
+  "otherLibrariesFolders": "/home/bhaskar/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/bhaskar/study/maze_solver"
+}

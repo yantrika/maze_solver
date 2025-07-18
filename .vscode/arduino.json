@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "maze_solver.ino",
+    "output": "./build"
+}
