@@ -5,7 +5,7 @@
 class Maze_Algo{
 
     private:
-
+    
 
     public:
 
