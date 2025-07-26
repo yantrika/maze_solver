@@ -4,6 +4,7 @@
 #include "src/Motors.hpp"
 #include "src/PID.hpp"
 #include "src/Sensors.hpp"
+#include "src/utils.hpp"
 
 
 // PID parameters can be adjusted as needed
@@ -11,11 +12,11 @@ Motors motor_obj;
 PID pid_obj;
 Sensors sens_obj;
 
-#line 13 "/home/bhaskar/study/maze_solver/maze_solver.ino"
+#line 14 "/home/bhaskar/study/maze_solver/maze_solver.ino"
 void setup();
-#line 20 "/home/bhaskar/study/maze_solver/maze_solver.ino"
+#line 21 "/home/bhaskar/study/maze_solver/maze_solver.ino"
 void loop();
-#line 13 "/home/bhaskar/study/maze_solver/maze_solver.ino"
+#line 14 "/home/bhaskar/study/maze_solver/maze_solver.ino"
 void setup() {
   Serial.begin(9600);
   delay(1000);

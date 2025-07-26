@@ -4,6 +4,7 @@
 # 4 "/home/bhaskar/study/maze_solver/maze_solver.ino" 2
 # 5 "/home/bhaskar/study/maze_solver/maze_solver.ino" 2
 # 6 "/home/bhaskar/study/maze_solver/maze_solver.ino" 2
+# 7 "/home/bhaskar/study/maze_solver/maze_solver.ino" 2
 
 
 // PID parameters can be adjusted as needed
