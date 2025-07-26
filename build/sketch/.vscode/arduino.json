@@ -1,6 +1,0 @@
-#line 1 "/home/bhaskar/study/maze_solver/.vscode/arduino.json"
-{
-    "board": "arduino:avr:uno",
-    "sketch": "maze_solver.ino",
-    "output": "./build"
-}
